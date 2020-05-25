@@ -1,4 +1,4 @@
-#McVulturesPiershin.Cyborgos.PayBay.com
+#McVulturesPiershin.CyborgOS.PayBay.com
 /MUA
 
 FHe mbit
